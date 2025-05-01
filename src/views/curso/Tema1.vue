@@ -84,10 +84,10 @@
       h2 #[span 1.2] Políticas comerciales
     
     .row.mb-5
-      .col-lg-4.order-2
+      .col-lg-4.order-lg-2.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema1/8.png", data-aos="zoom-in")
-      .col-lg-8.order-1.mb-3.mb-lg-0
+      .col-lg-8.order-lg-1
         p(data-aos="fade-left") Las <b>políticas macroeconómicas comerciales</b>, son estrategias y regulaciones implementadas por los gobiernos para influir en el comercio internacional y la actividad económica nacional. Su propósito es promover el crecimiento económico, mantener la estabilidad de precios, fomentar el empleo y garantizar el equilibrio en la balanza de pagos. Estas políticas se desarrollan a partir de instrumentos fiscales, monetarios y regulatorios, que impactan el comercio exterior y la competitividad de un país en los mercados globales.
         h5 Los objetivos de las políticas comerciales son:
 

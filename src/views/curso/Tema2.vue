@@ -114,7 +114,7 @@
         .row.justify-content-center.align-items-center.bg-color-8
           .col-lg-12
             .row.justify-content-center.align-items-center
-              .col-lg-7(data-aos="fade-left").mb-3.mb-lg-0
+              .col-lg-7(data-aos="fade-left").mb-3.mb-lg-0.p-4.p-lg-0
                 ul.lista-ul--color
                   li.mb-3.d-flex
                     i.far.fa-arrow-alt-circle-right.bg-color-7
@@ -224,7 +224,7 @@
         .row.justify-content-center.align-items-center.bg-color-8
           .col-lg-12
             .row.justify-content-center.align-items-center
-              .col-lg-7(data-aos="fade-left").mb-3.mb-lg-0
+              .col-lg-7(data-aos="fade-left").mb-3.mb-lg-0.p-4.p-lg-0
                 ul.lista-ul--color
                   li.mb-3.d-flex
                     i.far.fa-arrow-alt-circle-right.bg-color-7
@@ -266,10 +266,10 @@
     p.mb-4 El impacto positivo de la política fiscal en el desarrollo económico se manifiesta en su capacidad para estimular el crecimiento, fomentar la inversión y promover la equidad social. Al implementar medidas expansivas, como la reducción de impuestos o el aumento del gasto público en infraestructura, educación y salud, se incentiva el consumo y se generan empleos, lo que a su vez impulsa la demanda interna y fortalece el capital humano. 
 
     .row.mb-5
-      .col-lg-4.order-2
+      .col-lg-4.order-lg-2.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema2/19.png", data-aos="zoom-in")
-      .col-lg-8.order-1.mb-3.mb-lg-0
+      .col-lg-8.order-lg-1
         .bg-color-5.p-4(data-aos="fade-left")
           .row.align-items-start
             .col-lg-auto
